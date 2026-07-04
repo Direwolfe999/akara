@@ -1,3 +1,5 @@
+"use client";
+
 import { useState } from "react";
 import { Send, ShoppingBag, Trash2 } from "lucide-react";
 import type { MenuItem } from "./MenuCards";

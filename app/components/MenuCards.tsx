@@ -1,3 +1,5 @@
+"use client";
+
 import { Plus, Minus } from "lucide-react";
 
 export interface MenuItem {

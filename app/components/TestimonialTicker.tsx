@@ -1,3 +1,5 @@
+"use client";
+
 const testimonials = [
   { text: "Best akara in the hostel. Always hot!", author: "— Chinedu, B203" },
   { text: "I greet the room! Order every morning.", author: "— Emeka, A105" },

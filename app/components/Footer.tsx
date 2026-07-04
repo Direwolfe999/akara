@@ -26,8 +26,7 @@ export default function Footer() {
             rel="noopener noreferrer"
             className="inline-flex items-center gap-1.5 text-white font-semibold hover:text-akara-orange transition-all mt-1"
           >
-            Destiny — AI Engineer | Full-Stack Developer | Industrial Engineer
-            
+            Destiny — AI & Full-Stack Engineer
             <ExternalLink className="w-3.5 h-3.5" />
           </a>
         </div>
@@ -42,7 +41,7 @@ export default function Footer() {
             rel="noopener noreferrer"
             className="text-akara-orange hover:underline"
           >
-            Direwolfe-X Co.
+            Direwolfe
           </a>
           .
         </p>
